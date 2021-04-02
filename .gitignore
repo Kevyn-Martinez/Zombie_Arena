@@ -138,6 +138,8 @@ ipch/
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
+*.vcxproj
+*.vcx*
 
 # Visual Studio profiler
 *.psess
